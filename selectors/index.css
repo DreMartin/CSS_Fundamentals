@@ -1,0 +1,41 @@
+body {
+    background-color: bisque;
+}
+
+
+p {
+    font-family: sans-serif;
+}
+
+#one {
+    color: blue;
+}
+#two {
+    color: orange;
+}
+
+#three {
+    color: brown;
+}
+
+#four {
+    color: magenta;
+}
+
+.bordered {
+    border: 2px solid black;
+}
+
+.background-black {
+    background-color: black;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.oblique {
+    font-style: oblique;
+}
+
+
