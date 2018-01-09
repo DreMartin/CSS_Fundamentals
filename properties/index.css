@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+    height: 100vh;
+}
+
+.box {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid red;
+}
+
+.outer {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    width: 50%;
+    height: 50%;
+    background-color: brown;
+}
+
+.inner {
+    position: relative;
+    top: 25px;
+    left: 0px;
+    width: 50%;
+    height: 50%;
+    background-color: rgba(12, 13, 104, 0.377);
+}

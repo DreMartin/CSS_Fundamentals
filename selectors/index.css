@@ -7,7 +7,12 @@ p {
     font-family: sans-serif;
 }
 
-#one {
+p:hover {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+/* #one {
     color: blue;
 }
 #two {
@@ -28,14 +33,7 @@ p {
 
 .background-black {
     background-color: black;
-}
+} */
 
-.italic {
-    font-style: italic;
-}
-
-.oblique {
-    font-style: oblique;
-}
 
 

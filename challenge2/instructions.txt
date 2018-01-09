@@ -1,0 +1,6 @@
+Gold Level
+Write css rules to give the animals with a 'cute' class green text and an underline. Style paragraph tags that are inside divs to have double the normal font size. Give each div on the page 10px of padding, 1rem of margins, and a background color of lightgray.
+Blue Level
+Perform the Gold challenge, and then write css rules to style the words "throw it back up" (in last paragraph tag) to be uppercase, with bolded text. Style the paragraph with the id "dogText" to always be in the same position in the browser window.
+Red Level
+Perform the Blue challenge, and then write css rules to give all elements on the page except the `<h1>` elements a gray 1px solid border. You are only allowed to use 2 selectors for this task.
